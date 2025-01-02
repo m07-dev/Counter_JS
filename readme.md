@@ -1,2 +1,2 @@
-Compteur Javacript
-Voici l'un de mes premiers projets en JavaScript !
+Count Javacript
+This is One of My Project on JavaScript !
