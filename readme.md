@@ -1,6 +1,6 @@
 ## Count Javacript
 This is One of My Project on JavaScript !
-## ✨ Technologies utilisés :
+## ✨ Technologies used :
 - HTML
 - CSS
 - JavaScript
